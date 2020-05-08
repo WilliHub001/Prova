@@ -1,0 +1,6 @@
+C:\Users\willi\source\repos\Crypto\Crypto\bin\Debug\Crypto.exe.config
+C:\Users\willi\source\repos\Crypto\Crypto\bin\Debug\Crypto.exe
+C:\Users\willi\source\repos\Crypto\Crypto\bin\Debug\Crypto.pdb
+C:\Users\willi\source\repos\Crypto\Crypto\obj\Debug\Crypto_Server.csprojAssemblyReference.cache
+C:\Users\willi\source\repos\Crypto\Crypto\obj\Debug\Crypto.exe
+C:\Users\willi\source\repos\Crypto\Crypto\obj\Debug\Crypto.pdb

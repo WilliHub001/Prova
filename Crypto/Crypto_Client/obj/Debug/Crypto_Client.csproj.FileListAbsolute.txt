@@ -1,0 +1,6 @@
+C:\Users\willi\source\repos\Crypto\Crypto_Client\bin\Debug\Crypto_Client.exe.config
+C:\Users\willi\source\repos\Crypto\Crypto_Client\bin\Debug\Crypto_Client.exe
+C:\Users\willi\source\repos\Crypto\Crypto_Client\bin\Debug\Crypto_Client.pdb
+C:\Users\willi\source\repos\Crypto\Crypto_Client\obj\Debug\Crypto_Client.exe
+C:\Users\willi\source\repos\Crypto\Crypto_Client\obj\Debug\Crypto_Client.pdb
+C:\Users\willi\source\repos\Crypto\Crypto_Client\obj\Debug\Crypto_Client.csprojAssemblyReference.cache
